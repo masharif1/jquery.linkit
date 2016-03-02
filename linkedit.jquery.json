@@ -1,0 +1,33 @@
+{
+    "name": "linkedit",
+    "title": "Linkit jQuery Plugin",
+    "description": "Simple jQuery plugin to convert any element into a link.",
+    "keywords": [
+        "link",
+        "html",
+		"content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "M. Amir Sharif",
+        "url": "https://github.com/masharif1/"
+    },
+    "maintainers": [
+        {
+            "name": "M. Amir Sharif",
+            "email": "msharif4@gmail.com",
+            "url": "https://github.com/masharif1"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/masharif1/jquery.linkit/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/masharif1/jquery.linkit",
+    "docs": "https://github.com/masharif1/jquery.linkit",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
